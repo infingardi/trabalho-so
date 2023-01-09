@@ -1,0 +1,14 @@
+{
+  "name": "projeto-so",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "fifo": "node fifo.js",
+    "round": "node roundRobin.js"
+  },
+  "keywords": [],
+  "type": "module",
+  "author": "",
+  "license": "ISC"
+}
